@@ -54,10 +54,21 @@
   {
     "pName": "캠핑의자",
     "url1688": "https://detail.1688.com/offer/815346030616.html?offerId=815346030616&spm=a260k.home2025.recommendpart.9",
-    "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AcdIk21ajgGcGmT8p_!!2217743613366-0-cib.jpg",
     "mCat": "CAMP",
     "pMemo": "",
-    "options": [],
+    "options": [
+      {
+        "name": "옵션 1",
+        "imgUrl": "",
+        "bp": "12.6",
+        "inputMode": "margin",
+        "targetMargin": "30",
+        "sp": "",
+        "_sp": 12289.62818003914,
+        "_marginRate": "30.0"
+      }
+    ],
+    "activeOpt": 0,
     "sp": "15000",
     "ch": "rocket",
     "ci": "0",
@@ -80,6 +91,6 @@
     "rr": "3",
     "tm": "30",
     "savedAt": 1782958528624,
-    "_marginRate": "38.6"
+    "_marginRate": "30.0"
   }
 ]
